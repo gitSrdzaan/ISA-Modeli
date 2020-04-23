@@ -1,2 +1,2 @@
 # ISA-Modeli
-Domain model, Class Diagram u PowerDesign alatu
+Domain model u PowerDesign alatu
